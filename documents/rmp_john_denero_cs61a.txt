@@ -1,0 +1,53 @@
+Quality: 4.0 
+Difficulty: 3.0
+Course: CS61A
+Mar 28th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Comment: Istg he sounds like Mark Rober but he's a pretty chill guy
+Tags: Amazing lectures, Inspirational, Lots of homework
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CS61A
+Mar 10th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: THE GOAT! THE GOOOAAAATTTT!!!! THE GOOOOOOOOOAAAAAAAAAATTTTTTTTT!!!!!!!!!
+Tags: Inspirational, Hilarious, Caring
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CS61A
+Dec 21st, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Comment: This class was incredibly interesting and fun. All of the course staff are extremely helpful, it makes you really enjoy coding.
+Tags: Clear grading criteria, Respected
+
+Quality
+5.0
+Difficulty
+2.0
+61A
+Dec 20th, 2025
+Would Take Again: Yes
+Grade: A+
+Comment: He is the goat. Did 6 7 in one of the lectures at the beginning of the course and it became a legendary highlight.
+Tags: Inspirational, Caring, Respected
+
+Quality: 4.0
+Difficulty: 4.0
+Course: CS61A
+Dec 12th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: I enjoyed the course content of 61A, and DeNero taught very well. I will say that his use of pensieve, an AI grading software developed by old students of his, is lowk corrupt (he pays thousands of extra dollars to the company over using gradescope) and detracts from learning (we don't learn to use github like we would with gradescope).

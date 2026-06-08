@@ -1,0 +1,22 @@
+r/berkeley
+Thread link: https://www.reddit.com/r/berkeley/comments/1s9dgsq/cs_61a_how_difficult_is_it/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+u/Key-Stretch2652: CS61A, How difficult is it?
+I gotta take CS 61A over the summer. How hard is it? I am so scared lol. I took three intro to compsci classes but that was over a year ago. I forgot pretty much everything that was taught. I barely remember going over recursions and reverse trees but I did so bad in those sections. The projects that I remember doing was a poker bot, text data storage system, and this random number generator button game.
+Am I cooked if I do this class over the summer?
+
+Comments:
+u/DiamondDepth_YT: It's really fast paced and difficult, probably even more so over the summer tbh. 61A's concepts aren't too difficult, it's their execution on exams that's hard to grasp 
+
+u/mysterious_bushmate: I took it over summer along with numerical analysis and it was nightmare mode. I barely got by and wasted a summer. However, I don’t consider myself bright by any means, so maybe you’ll crush it.
+
+    u/Key-Stretch2652: How much coding experience did you have beforehand? Thank you for the compliment but I too wouldn’t consider myself bright haha
+
+    u/mysterious_bushmate: I had two semesters of Java at CC, but that was 2 years prior to the course, I took the course during summer 2025
+
+u/Silent-Shallot-7351: I took CS61A in Summer '24. The class is unbelievably fast-paced. You essentially learn a new fundamental CS concept every day for the duration of the course. I had decent programming experience going in (Data 8/ high school APCSA level) but it still moved very quickly. You're also expected to be able to apply and solve problems with these concepts immediately after learning them. Naturally, this is difficult. I consider myself to pick up new concepts fairly quickly, and I had a hard time in this class. The normal Fall/Spring 61A offering is already fast enough, and this goes at twice the speed.
+
+YMMV, though, as I had students teaching the class, and I think their lack of experience showed in some ways. The 61A exams are supposed to be hard, but it felt like they turned the difficulty up to 11 out of fear of making it too easy. IIRC, raw exam averages somewhere around 30 or 40 percent. I ended up getting a flat B, and was somewhere near the median or slightly below.
+
+I will say your success in Summer 61A is not indicative of your ability as a programmer, or even as a student. I took 61B this past fall with Josh Hug and Peyrin Kao and had a way better experience and earned a much better grade (A-/ above median on exams). So if you do take it and have a hard time, don't take it as a sign that you aren't cut out for CS.
+
+    u/Other-Number-4463 avatar: so you took 61a sum 24 but took 61b fall 25 ? why the long break ?

@@ -1,0 +1,52 @@
+Quality: 5.0
+Difficulty: 4.0
+Course: CS61B
+May 26th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Comment: i would go to the lectures for the experience and not for the attendance points
+Tags: Amazing lectures, Inspirational, Hilarious
+
+Quality: 4.0
+Difficulty: 3.0
+Course: CS61B
+Jan 6th, 2026
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Audit/No Grade
+Comment: Took hug Spring '25 when he was teaching with Yokota. I enjoyed the class; it was cool to have some meatier projects compared to 61A, and a large part of the class was just a different data structure every week or so, so looking back at course material is pretty easy because there's a clear division of lecture content. Exams were fair.
+Tags: Amazing lectures, Hilarious, Respected
+
+Quality: 5.0
+Difficulty: 2.0
+Course: CS61B
+Dec 27th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Comment: Professor Hug and his CS61B curriculum is perfection. Everything about the class is super fun, and it really feels like what you'd expect out of a lower div CS class at a top university like Berkeley. Make sure to go to lectures, even if you opt out of attendance tracking.
+Tags: Amazing lectures, Clear grading criteria, Inspirational
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CS61B
+May 13th, 2025
+For Credit: Yes
+Would Take Again: Yes
+Grade: Not sure yet
+Comment: his videos are cool
+Tags: Amazing lectures, Hilarious, Respected
+
+Quality: 4.0
+Difficulty: 5.0
+Course: CS61B
+May 5th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Comment: Hug is an amazing professor who has a sense of humor, teaches really well, and looks out to his students. Tests are soooo hard though and the workload is insane so be sure to work very hard.
+Tags: Tough grader, Amazing lectures, Inspirational

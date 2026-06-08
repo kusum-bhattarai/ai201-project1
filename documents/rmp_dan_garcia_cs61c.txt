@@ -1,0 +1,50 @@
+Quality: 2.0
+Difficulty: 4.0
+Course: CS61C
+Jan 1st, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Comment: Great lecturer, but don't take this class if you care about your grade since he doesn't. Shady grading practices (delaying grade distribution releases, lying about said distributions, etc) made this class feel extremely unrewarding for me, but if you don't care about grades and have an interest in the course, then I would recommend taking it.
+Tags: Tough grader, Amazing lectures
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CS61C
+Dec 29th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Comment: I rarely write ratemyprofessors but Dan Garcia is an absolute gem. Even though attendance wasn't mandatory he made me enjoy coming to lecture and while the class isn't easy, I felt like I absorbed and learned so much over CS61B and CS61A. His exams are quite difficult however and the class is also insanely project-heavy.
+Tags: Tough grader, Amazing lectures, Hilarious
+
+Quality: 2.0
+Difficulty: 5.0
+Course: CS61C
+Dec 26th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Comment: A's for All? More like A's for None!
+Tags: Tough grader, Test heavy
+
+Quality: 2.0
+Difficulty: 2.0
+Course: CS61C
+Dec 26th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Comment: The “A's for everyone” model felt like a poor fit for a CS class in my experience. It was stressful since small point losses mattered a lot. I found some exams unclear or ambiguous, with high score variation. There is a small curve at the end, but earning an A+ felt extremely difficult.
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS61C
+Dec 25th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Comment: My grade went from A to B after the exam (4.0->3.0). Then he decided to give everyone 5 points for the final to account for the difficulty but it was definitely not enough to bring the final average to 65% per the course syllabus, (55-> 58%). The midterm also had a low average. Don't take him if you care about grades. “A's for all” was a scam
+Tags: Tough grader, Test heavy, Graded by few things

@@ -1,0 +1,12 @@
+r/berkeley
+Thread link: https://www.reddit.com/r/berkeley/comments/1psnpwm/how_can_i_prepare_for_cs61a/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+u/Haunting_Claim2427:
+How can I prepare for CS61A?
+Freshman with no coding experience going to take the course next semester here (except for a 1/5 AP CSA due to lack of attention in 12th grade). Would there be any material that’s nice for preparation? Thanks!
+
+Comments:
+u/thingsbop: Watching the topical videos recorded by DeNero and posted on cs61a.org and getting familiar with the content is a good way to prepare, esp because it's going to feel really fast without much coding experience. Environment diagrams are probably the most confusing things at the beginning of the course but it gets better when you play around with it on tutor.cs61a.org
+
+u/Legitimate-Salt_: The actual coding content is pretty basic, what trips people up are the exams which can get quite difficult. After week one or two of classes, start studying for the first midterm
+
+u/DiamondDepth_YT: Start Week 0 and watch the videos already. Basically, just get ahead.

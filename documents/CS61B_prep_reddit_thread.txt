@@ -1,0 +1,18 @@
+r/berkeley
+Thread link: https://www.reddit.com/r/berkeley/comments/1pv3q03/how_to_prep_for_cs61b/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+u/Regular-Branch2784: how to prep for cs61b?
+
+Comments:
+u/Broad-Author-712: Just learn some basic Java syntax (declaring variables, control, loops, and classes) so you can focus on the actual data structures from the start. That should be enough.
+That’s what I did and I found it perfect because I could focus on the actual content immediately at the start of the class (which is the most fast paced part, as they’ll tell you).
+
+    u/JanetPistachio avatar: For practicing in Java (or python), I recommend CodingBat!! https://codingbat.com/java
+
+u/BrainyCardinal45: Finish project 0 over break
+
+    u/Sweet-Butterscotch75: How can we access it early?
+
+    u/JanetPistachio: It looks like you can access a lot of stuff from previous semesters on their website: https://sp25.datastructur.es/While I couldn't find a link to files for the projects, there's still useful info from the textbook and slides!
+    edit:
+    This might help you to find the files? https://sp25.datastructur.es/resources/guides/assignment-workflow/

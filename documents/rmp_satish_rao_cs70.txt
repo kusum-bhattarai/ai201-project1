@@ -1,0 +1,51 @@
+Quality: 1.0
+Difficulty: 1.0
+Course: CS70
+Apr 1st, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Comment: Not recommended. Professor Rao's teaching style was difficult to follow, and he did not feel supportive when students needed help progressing in the course. Students should be cautious and clearly understand all course policies, as academic integrity concerns are taken very seriously with impersonations.
+Tags: Helpful
+
+Quality: 2.0
+Difficulty: 5.0
+Course: CS70
+Oct 29th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Comment: Super hard exams. Not bad of a guy (quite funny outside of class), but his teaching style is terrible. Made exams super difficult compared to past sem. But overall, meh
+Tags: Tough grader, Helpful
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CS70
+Jun 13th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Comment: I really appreciate Rao's emphasis on intuitive understanding of content and his approach to learning. Contrary to what others say, I thought the lectures were actually pretty useful in solidifying understanding on top of notes. Tests were hard, but grading was fair and TAs were quite responsive.
+Tags: Helpful
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS70
+May 22nd, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Online Class: Yes
+Comment: This class is all learn the material by yourself. Don't even try to understand his lecture, since he just read the slide without explanation and asking you "right?". Suggest learn the probability part from youtube.
+Tags: Helpful
+
+Quality: 3.0
+Difficulty: 4.0
+Course: CS70
+May 18th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Comment: Class went over tons of topics really fast which is the typical recipe for a highly challenging course, will require lots of diligence and huge variation in difficulty based on previous experience which is unfortunate, still can learn a lot and generally well designed, prof himself is OK but notes/discussions/hw are the key to learning
+Tags: Test heavy, Helpful

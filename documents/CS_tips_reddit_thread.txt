@@ -1,0 +1,18 @@
+r/berkeley
+Thread link: https://www.reddit.com/r/berkeley/comments/1tssyx8/study_tips_for_math_and_cs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+u/Traditional_Yam_154: Study tips for math and cs?
+Hi guys I’m taking 61a and math 54 in the summer, both in session C. Looking for any tips on how to stay on top of things and get an A! Thank you guys!
+
+Comments:
+u/EpicEgg4628: Summer classes move fast so DON'T get left behind on lectures. Focus on understanding the concepts on Math54. Spend time actually coding and debugging on 61A.
+    u/Traditional_Yam_154: Thank you!
+
+u/elu00: Adding onto EpicEgg, it will feel a bit like high school in the sense that you have class the same time every day and homework you have to chip away at every night. Make sure to go to class. For 61A, you should begin prepping for exams about 1.5 to 2 weeks early by taking practice past exams. Attend office hours and homework parties (if those still exist) when you are stuck because you will familiarize yourself with staff and gain a sense of pride for your effort. Math 54 should feel a lot simpler in comparison.
+u/Traditional_Yam_154: Thanks!
+
+u/iced_matcha29: Have taken both of these but not over the summer. For 61A I’d recommend learning introductory python before you go into the class so you don’t feel left behind (harvards online cs50 is a great resource for that). For 54 just look over matrices a bit and make sure you remember basic matrix operations. Overall advice is just to get a tiny head start so you’re not overwhelmed
+    u/Traditional_Yam_154: Thanks that’s great advice
+
+u/DifferentialEntropy: Study ahead, look at previous iterations of the class
+    u/Traditional_Yam_154: Thanks!
